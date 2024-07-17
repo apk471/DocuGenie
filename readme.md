@@ -4,6 +4,9 @@
 
 In today's fast-paced world, efficient access to information is crucial for organizations. DocuGenie, our cutting-edge AI bot, is designed to revolutionize the way you handle and extract information from your local PDF files.
 
+## Demo
+<a href="https://drive.google.com/file/d/1KI1r9M6jVKRDYc2VzmoZrpF2j3EcIpCJ/view?usp=sharing">Click here to watch a demo</a>
+
 ## Features
 
 1. Chat History: The app provides a chat history feature, allowing users to access previous chat sessions.
